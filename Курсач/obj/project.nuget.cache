@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQwJ1sKO/WmtVDbXKLv5IHibKJ41iVHij2gwZX76kLc0zvpLWJrrNaQX8482E/WAOWWCkao3Ftk5CJF3hSRSWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Кирилл\\source\\repos\\Курсач\\Курсач\\Бухгалтерія.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

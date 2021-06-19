@@ -1,0 +1,13 @@
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.exe
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.deps.json
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.runtimeconfig.json
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.runtimeconfig.dev.json
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.dll
+C:\Users\Кирилл\source\repos\Курсач\Курсач\bin\Debug\netcoreapp3.1\Курсач.pdb
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.csprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.dll
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.pdb
+C:\Users\Кирилл\source\repos\Курсач\Курсач\obj\Debug\netcoreapp3.1\Курсач.genruntimeconfig.cache
